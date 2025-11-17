@@ -12,7 +12,7 @@ import geopandas as gpd
 from scipy.stats import lognorm
 from shapely.geometry import Point
 
-api_key = "0291ed453c49b88aafdb6d6d12bac47801f0e6f5"
+api_key = ""
 state   = "36"
 county  = "061"
 ######################################################################################################################################
